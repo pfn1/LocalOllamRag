@@ -1,0 +1,7 @@
+pip install langchain
+pip install chromadb
+pip install pypdf
+pip install pytest
+pip install -U langchain-community
+
+pip install -qU langchain-aws  
